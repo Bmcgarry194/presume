@@ -12,10 +12,6 @@ class Profile(object):
         self.phone_num = phone_num
         self.address = {}  # dict with street, city, state, zip as keys
         self.skills = set()  # set of tuples
-        self.education = []  # list of dicts
-        self.socialmedia = []  # list of dicts
-        self.description = []  # list of dicts
-        self.misc = []  # list of dicts with label for obj type
         self._created_date = dt.datetime.today()
         self._touched_date = dt.datetime.today()
         print(f"Profile created for {self.name} at {self._created_date}.")
