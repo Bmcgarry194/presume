@@ -1,0 +1,22 @@
+Job description
+The Softlines Business Intelligence team is looking for an experienced, self-driven, analytical, and strategic Data Engineer. In this role, you will be working in one of the world's largest and most complex data warehouse environments. You should be passionate about working with huge datasets and be someone who loves to bring data together to answer business questions. You should have deep expertise in creation and management of datasets and the proven ability to translate the data into meaningful insights through collaboration with Business Intelligence Engineers (BIEs) and Data Scientists. In this role, you will have ownership of end-to-end development of data engineering solutions to complex questions and you’ll play an integral role in strategic decision-making.
+
+The right candidate will possess excellent business and communication skills, be able to work with business owners to develop and define key business questions and be able to collaborate with BIEs and Data Scientists to analyze data that will answer those questions. You should have a solid understanding of how to build efficient and scalable data infrastructure and data models, and the desire to learn and implement Elastic MapReduce (EMR)-based solutions where appropriate.
+
+Responsibilities
+Owning the design, operations and improvements for the Organizations Datawarehouse infrastructure
+Engineering solutions to aggregate and automate large scale data flows from varying sources
+Collaborate with Engineers and Scientists in the organization to construct complex data sources for algorithms and machine learning models
+Explore and learn the latest AWS technologies to provide new capabilities and increase efficiency
+Build, analyze and present actionable data to drive marketing business development and product management decisions
+Help continually improve ongoing reporting and analysis processes, automating or simplifying self-service support for customers
+
+Basic Qualifications
+Bachelor’s degree in computer science, Engineering or related quantitative fields.
+5+ years industry experience as a Data Engineer or in a related field (i.e. Business Intelligence Engineer, Quantitative Analyst, Data Scientist, Software Engineer, etc.) with a strong track record of working with large and unstructured datasets
+Expertise in SQL, ETL management, and data warehousing plus hands-on experience with different data warehouse and processing technologies such as AWS Redshift, Oracle, PostgreSQL, Hadoop, Spark, etc.
+Proficiency in Python or another general-purpose programming language.
+Understanding of data management fundamentals, data storage principles and distributed systems
+Hands-on experience with cloud computing and UNIX/Linux based systems.
+Understanding of core ML and statistical concepts.
+Strong verbal/written communication and data presentation skills, including an ability to effectively communicate with both business and technical teams.
